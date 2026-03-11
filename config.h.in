@@ -1,0 +1,3 @@
+#define APP_NAME "@PROJECT_NAME@"
+#define APP_VERSION "@PROJECT_VERSION@"
+#define APP_ID "@APP_ID@"
